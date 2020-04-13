@@ -1,1 +1,1 @@
-# box-class-c23
+# Box Class
